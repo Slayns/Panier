@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Panier</string>
+    <string name="catalogue">Catalogue</string>
+    <string name="profil">Profil</string>
+    <string name="commande">Commande</string>
+    <string name="panier">Panier</string>
+</resources>
